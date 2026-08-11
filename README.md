@@ -34,5 +34,5 @@ SQL (Snowflake) · Python (pandas, scikit-learn, LightGBM, Optuna) · matplotlib
 
 ## Contenu du dépôt
 
-- 'construction_table.sql' — requête de construction de la table analytique (anonymisée).
-- 'pipeline_modelisation.py' — extrait anonymisé du pipeline de modélisation.
+- `construction_table.sql'` — requête de construction de la table analytique (anonymisée).
+- `pipeline_modelisation.py` — extrait anonymisé du pipeline de modélisation.
